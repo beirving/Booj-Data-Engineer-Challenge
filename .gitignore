@@ -112,3 +112,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+venv/.
+
+.pytest_cache
+
+downloaded_xml_data.xml
+output.csv
